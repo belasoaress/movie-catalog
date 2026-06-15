@@ -1,4 +1,4 @@
-# 🎬 Movie Catalog
+# 🎬 Catálogo de filmes
 
 API para gerenciamento de catálogo de filmes desenvolvida com FastAPI, utilizando PostgreSQL como banco de dados e Docker para conteinerização da aplicação.
 
